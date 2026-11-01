@@ -1,0 +1,6 @@
+{
+  "name": "Ludo Royale",
+  "description": "Original mobile-friendly online Ludo gaming app featuring smooth animations, multiplayer lobbies, private rooms, AI bots, and classic board rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
